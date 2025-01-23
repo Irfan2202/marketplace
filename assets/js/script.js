@@ -30,6 +30,12 @@ closeButton.addEventListener("click", function (event) {
   event.preventDefault();
   siteElement.classList.remove("showmenu");
 });
+// Event listener to handle screen resizing
+window.addEventListener("resize", function () {
+  if (window.innerWidth > 992) {
+    siteElement.classList.remove("showmenu");
+  }
+});
 
 // Show sub menu on mobile
 // Select all elements with the class "has-child"
