@@ -6,11 +6,11 @@ This ecommerce website has multiple pages:
 5. Cart Page
 6. Checkout Page
 
-Features for this ecommerce website tutorial:
+Features for this ecommerce website :
 
 1. responsive menu
 2. mega menu
-3. all departments menu
+3. all categories menu
 4. bottom menu bar
 5. slider
 6. trending products
